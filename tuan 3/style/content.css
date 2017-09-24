@@ -1,0 +1,19 @@
+.content_login {
+    width: 72%;
+    float: left;
+    position: relative;
+}
+
+.content_login h3 {
+    color: deepskyblue;
+    text-align: center;
+}
+.content_login p {
+    display: inline;
+}
+.content_login input {
+    margin-left: 200px;
+}
+input[type=checkbox] {
+    margin-left: 269px;
+}
